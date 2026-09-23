@@ -67,3 +67,7 @@ scripts/
   make-icon.swift     draws the icon (swift scripts/make-icon.swift Resources/icon-1024.png)
 build.sh              swift build, then puts together and ad-hoc signs the .app
 ```
+
+## Licence
+
+[MIT](LICENSE). Do what you like with it; no warranty (see the honesty note above).
